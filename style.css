@@ -10,7 +10,7 @@ body{
 }
 header{
     width: 100%;
-    background-image: url(../images/banner/banner3.png);
+    background-image: url(Images/banner/banner3.png);
     display: flex;
     flex-direction: column;
     align-items: flex-end;
