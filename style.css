@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     align-items: center;
 }
+/* header section started */
 header{
     width: 100%;
     background-image: url(Images/banner/banner3.png);
@@ -48,6 +49,10 @@ header{
     font-weight: 700;
     color: #005FAC;
 }
+/* Header section end */
+
+
+/* main section started */
 .personal-area{
     display: flex;
     align-items: center;
@@ -135,6 +140,10 @@ ul{
     font-size: 30px;
     font-weight: 800;
 }
+/* main section end */
+
+
+/* Footer section started */
 footer{
     height: 477px;
     width: 100%;
@@ -188,3 +197,4 @@ footer{
     background-color: white;
     margin-top: 30px;
 }
+/* Footer section end */
